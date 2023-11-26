@@ -1,0 +1,62 @@
+.complete {
+  border: 2px solid green;
+  width: 300px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.incomplete {
+  border: 2px solid red;
+  width: 300px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.otherDataDiv {
+  background-color: grey;
+  border: 2px solid #333;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.active {
+  background-color: #f8cbad;
+}
+
+.todosChild {
+  float: right;
+  margin-top: -175px;
+  margin-right: -40px;
+  padding: 10px;
+}
+
+.postsChild {
+  float: right;
+  margin-top: 100px;
+  margin-right: -315px;
+}
+
+.todoComp {
+  margin-top: 10px;
+  border: 2px solid purple;
+  padding: 2px;
+}
+
+.postComp {
+  width: 300px;
+  border: 2px solid purple;
+  padding: 2px;
+  margin-top: 10px;
+}
+
+.newUserDiv {
+  position: absolute;
+  top: 100px;
+  right: 60px;
+}
+
+.border {
+  border: 2px solid black;
+  padding: 15px;
+}
